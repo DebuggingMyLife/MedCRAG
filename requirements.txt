@@ -1,0 +1,11 @@
+datasets
+transformers
+torch
+pandas
+numpy
+matplotlib
+tqdm
+sentencepiece
+rank_bm25
+requests
+python-dotenv
